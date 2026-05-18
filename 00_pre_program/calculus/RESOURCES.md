@@ -1,8 +1,8 @@
-# 0.1 — Calculus & Real Analysis
+﻿# 0.1 — Calculus & Real Analysis
 
 `Berkeley: Pre-Program | CMU: Launch`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 - **[MIT 18.01 — Single Variable Calculus (Fall 2006)](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)**
   MIT OpenCourseWare. Covers limits, derivatives, integrals, applications.
@@ -19,7 +19,7 @@
 - **[Multivariable Calculus — The Bright Side of Mathematics](https://www.youtube.com/playlist?list=PLBh2i93oe2qv4G2AyarkbR3OKBml0hXEg)**
   Concise, proof-oriented. Good supplement for rigorous treatment of multivariable topics.
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [CLP Calculus Textbooks — Joel Feldman, Andrew Rechnitzer, Elyse Yeager (UBC)](https://www.math.ubc.ca/~CLP/)
 - **Type:** Textbook

@@ -1,12 +1,12 @@
-# 2.3 — Futures, Swaps & Exotic Options
+﻿# 2.3 — Futures, Swaps & Exotic Options
 
 `CMU: 46974 | UChicago: FINM 37000 | Berkeley: MFE 230D`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 *Resources to be added. Contributions welcome — see [CONTRIBUTING.md](../../CONTRIBUTING.md).*
 
-## 📖 Textbooks
+##  Textbooks
 
 ### *Options, Futures, and Other Derivatives* — John C. Hull
 - **Type:** Textbook

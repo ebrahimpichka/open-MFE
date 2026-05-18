@@ -1,12 +1,12 @@
-# 10.2 — Foreign Exchange
+﻿# 10.2 — Foreign Exchange
 
 `UChicago: FINM 37301`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 *Resources to be added. Contributions welcome — see [CONTRIBUTING.md](../../CONTRIBUTING.md).*
 
-## 📖 Textbooks
+##  Textbooks
 
 ### *The Microstructure Approach to Exchange Rates* — Richard Lyons
 - **Type:** Textbook

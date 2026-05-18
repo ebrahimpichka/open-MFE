@@ -1,8 +1,8 @@
-# 6.3 — Deep Learning
+﻿# 6.3 — Deep Learning
 
 `CMU: 46937 | UChicago: FINM 33165`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 - **[UWaterloo STAT 940 — Deep Learning (Fall 2023) — Ali Ghodsi](https://youtube.com/playlist?list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz)**
   Graduate-level. Strong mathematical foundations: backpropagation, CNNs, RNNs, attention, VAEs, GANs.
@@ -23,7 +23,7 @@
 - **[DeepMind x UCL — Deep Learning Lecture Series 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)**
   High-quality lectures from DeepMind researchers. Covers generative models, RL, graph networks.
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [Deep Learning — Ian Goodfellow, Yoshua Bengio & Aaron Courville](https://www.deeplearningbook.org/)
 - **Type:** Textbook

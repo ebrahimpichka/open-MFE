@@ -1,12 +1,12 @@
-# 9.3 — Quantitative Trading Strategies
+﻿# 9.3 — Quantitative Trading Strategies
 
 `UChicago: FINM 33150, FINM 35910`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 *Resources to be added. Contributions welcome — see [CONTRIBUTING.md](../../CONTRIBUTING.md).*
 
-## 📖 Textbooks
+##  Textbooks
 
 ### *Advances in Financial Machine Learning* — Marcos López de Prado
 - **Type:** Textbook

@@ -1,12 +1,12 @@
-# 6.6 — Alternative & High-Frequency Data
+﻿# 6.6 — Alternative & High-Frequency Data
 
 `UChicago: FINM 34600 | CMU: 46923`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 *Resources to be added. Contributions welcome — see [CONTRIBUTING.md](../../CONTRIBUTING.md).*
 
-## 📖 Textbooks
+##  Textbooks
 
 ### *Advances in Financial Machine Learning* — Marcos López de Prado
 - **Type:** Textbook

@@ -1,8 +1,8 @@
-# 6.1 — Machine Learning Fundamentals
+﻿# 6.1 — Machine Learning Fundamentals
 
 `CMU: 46926 | UChicago: FINM 33160 | Berkeley: MFE 230P`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 - **[Stanford CS229 — Machine Learning (Spring 2022)](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)**
   The canonical ML course. Supervised/unsupervised learning, SVMs, neural networks, EM, PCA, reinforcement learning.
@@ -16,7 +16,7 @@
 - **[Georgia Tech CS 7641 — Machine Learning](https://edstem.org/us/join/D3Um7q)**
   Graduate-level ML with strong theoretical foundations. Covers supervised, unsupervised, and reinforcement learning.
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [An Introduction to Statistical Learning (with Python/R) — James, Witten, Hastie & Tibshirani](https://www.statlearning.com/)
 - **Type:** Textbook

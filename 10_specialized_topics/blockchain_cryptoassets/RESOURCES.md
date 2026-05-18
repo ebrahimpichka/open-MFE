@@ -1,12 +1,12 @@
-# 10.3 — Blockchain & Cryptoassets
+﻿# 10.3 — Blockchain & Cryptoassets
 
 `CMU: 46912 | UChicago: FINM 31200`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 *Resources to be added. Contributions welcome — see [CONTRIBUTING.md](../../CONTRIBUTING.md).*
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [Bitcoin and Cryptocurrency Technologies — Narayanan, Bonneau, Felten, Miller & Goldfeder (Princeton)](https://bitcoinbook.cs.princeton.edu/)
 - **Type:** Textbook

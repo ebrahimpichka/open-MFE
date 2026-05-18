@@ -1,8 +1,8 @@
-# 4.2 — Financial Time Series
+﻿# 4.2 — Financial Time Series
 
 `CMU: 46929 | Berkeley: MFE 230E | Baruch: MTH 9875`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 - **[DTU 02417 — Time Series Analysis (Fall 2018)](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TZ0g496fVcQpt_-XJRNkbi)**
   Technical University of Denmark. AR, MA, ARMA, ARIMA, state-space models, Kalman filter. Rigorous and thorough.
@@ -13,7 +13,7 @@
 - **[Statistics 153: Introduction to Time Series — UC Berkeley (Fall 2024)](https://stat153.berkeley.edu/fall-2024/)**
   Berkeley's undergraduate time series course. Lecture notes and materials freely available on course website.
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [Forecasting: Principles and Practice (3rd ed.) — Rob Hyndman & George Athanasopoulos](https://otexts.com/fpp3/)
 - **Type:** Textbook

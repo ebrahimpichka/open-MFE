@@ -1,10 +1,10 @@
-# 1.1 — Stochastic Calculus
+﻿# 1.1 — Stochastic Calculus
 
 `Berkeley: MFE 230Q | CMU: 46944, 46945 | UChicago: FINM 34000, FINM 34500 | Baruch: MTH 9831, MTH 9832`
 
 Covers the full arc: measure-theoretic probability → martingales → Itô calculus → change of measure → risk-neutral pricing.
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 - **[Introduction to Stochastic Calculus (Fall 2023) — Prof. Serge Richard, Nagoya University](https://www.youtube.com/playlist?list=PLZ2qogva1kkYDu-qsFzn2htV5TUncOEZu)**
   Rigorous, graduate-level. Covers filtrations, martingales, Brownian motion, Itô integral, Itô's Lemma, SDEs, Girsanov.
@@ -16,7 +16,7 @@ Covers the full arc: measure-theoretic probability → martingales → Itô calc
 - **[Probability and Stochastics for Finance II — Prof. Joydeep Dutta (NPTEL)](https://youtube.com/playlist?list=PLQtOp02o5t8VOjzts8q0rHXLNYHSqdiml)**
   Continuation: Itô calculus, Black-Scholes via SDEs, risk-neutral pricing, change of measure.
 
-## 📖 Textbooks
+##  Textbooks
 
 ### *Stochastic Calculus for Finance I: The Binomial Asset Pricing Model* — Steven Shreve
 - **Type:** Textbook

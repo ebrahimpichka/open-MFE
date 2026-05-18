@@ -1,8 +1,8 @@
-# 5.4 — High-Performance Computing
+﻿# 5.4 — High-Performance Computing
 
 `UChicago: FINM 32950, FINM 32700`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 ### Parallel Computing
 
@@ -36,7 +36,7 @@
   [Exercises on GitHub](https://github.com/olcf/cuda-training-series/tree/master/exercises)
   Professional HPC center training. Covers advanced CUDA patterns, profiling, multi-GPU.
 
-## 📖 Textbooks
+##  Textbooks
 
 ### *Programming Massively Parallel Processors: A Hands-on Approach* — Wen-mei Hwu, David Kirk & Izzat El Hajj
 - **Type:** Textbook

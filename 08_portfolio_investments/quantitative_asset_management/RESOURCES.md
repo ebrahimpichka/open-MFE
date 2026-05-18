@@ -1,12 +1,12 @@
-# 8.2 — Quantitative Asset Management
+﻿# 8.2 — Quantitative Asset Management
 
 `CMU: 46979 | UChicago: FINM 36700`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 *Resources to be added. Contributions welcome — see [CONTRIBUTING.md](../../CONTRIBUTING.md).*
 
-## 📖 Textbooks
+##  Textbooks
 
 ### *Active Portfolio Management* — Richard Grinold & Ronald Kahn
 - **Type:** Textbook

@@ -1,12 +1,12 @@
-# 5.3 — SQL & Databases
+﻿# 5.3 — SQL & Databases
 
 `CMU: 46912 | UChicago: FINM 32900`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 *Resources to be added. Contributions welcome — see [CONTRIBUTING.md](../../CONTRIBUTING.md).*
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [Learning SQL — Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
 - **Type:** Textbook

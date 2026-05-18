@@ -1,8 +1,8 @@
-# 6.5 — Reinforcement Learning
+﻿# 6.5 — Reinforcement Learning
 
 `UChicago: FINM 33165`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 - **[UC Berkeley CS 285 — Deep Reinforcement Learning (Fall 2023)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)**
   [Course page](http://rail.eecs.berkeley.edu/deeprlcourse/). The leading academic DRL course. Policy gradients, actor-critic, model-based RL, offline RL.
@@ -27,7 +27,7 @@
 - **[Introduction to Reinforcement Learning — Masoud Farahmand](https://www.youtube.com/playlist?list=PLCveiXxL2xNbiDq51a8iJwPRq2aO0ykrq)**
   Accessible entry point covering the full RL pipeline from MDPs through modern deep RL.
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [Reinforcement Learning: An Introduction — Richard Sutton & Andrew Barto](http://incompleteideas.net/book/the-book-2nd.html)
 - **Type:** Textbook

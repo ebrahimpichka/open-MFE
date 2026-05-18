@@ -1,4 +1,4 @@
-# 9.4 — High-Frequency Trading
+﻿# 9.4 — High-Frequency Trading
 
 > **Reference Programs:** UChicago FINM 34600, CMU 46982
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Textbooks
+##  Textbooks
 
 ### *Algorithmic and High-Frequency Trading* — Álvaro Cartea, Sebastián Jaimungal & José Peñalva
 - **Type:** Textbook
@@ -27,25 +27,25 @@
 - **Covers:** HFT strategies, liquidity provision, adverse selection, market quality, exchange design
 - **Notes:** Foundational text for understanding the institutional structure within which HFT operates. Essential companion to the more mathematical Cartea-Jaimungal text.
 
-## 🎓 Online Courses
+##  Online Courses
 
 | Course | Platform | Institution | Link |
 |--------|----------|-------------|------|
 | _Add resource_ | | | |
 
-## 📄 Key Papers
+##  Key Papers
 
 | Paper | Authors | Year | Link |
 |-------|---------|------|------|
 | _Add resource_ | | | |
 
-## 💻 Code & Notebooks
+##  Code & Notebooks
 
 | Repository | Description | Link |
 |------------|-------------|------|
 | _Add resource_ | | |
 
-## 🎙️ Recorded Lectures
+##  Recorded Lectures
 
 | Title | Speaker/Institution | Link |
 |-------|---------------------|------|

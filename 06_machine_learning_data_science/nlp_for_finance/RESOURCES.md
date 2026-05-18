@@ -1,8 +1,8 @@
-# 6.4 — NLP for Finance
+﻿# 6.4 — NLP for Finance
 
 `CMU: 46924 | UChicago: FINM 33200`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 - **[Stanford CS224N — NLP with Deep Learning (2023)](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)**
   The standard graduate NLP course. Word vectors, RNNs, attention, Transformers, BERT, question answering, generation.
@@ -19,7 +19,7 @@
 - **[UT Austin NLP — Greg Durrett (2023–2024)](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7)**
   Comprehensive NLP course with strong coverage of language models and applications.
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [Speech and Language Processing (3rd ed. draft) — Daniel Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
 - **Type:** Textbook

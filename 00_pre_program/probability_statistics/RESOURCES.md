@@ -1,8 +1,8 @@
-# 0.3 — Probability & Statistics
+﻿# 0.3 — Probability & Statistics
 
 `All Programs`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 - **[MIT RES.6-012 — Introduction to Probability (Spring 2018)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)**
   Instructors: John Tsitsiklis, Patrick Jaillet. The gold standard intro probability course. Covers probability spaces, random variables, distributions, conditional expectation, LLN, CLT.
@@ -14,7 +14,7 @@
 - **[Stanford CS109 — Introduction to Probability for Computer Scientists (2022)](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ8paqz9BVjGHMzzm2b-dBg_)**
   Instructor: Chris Piech. Intuitive, example-driven. Strong on MLE, Bayesian reasoning, distributions.
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [Introduction to Probability, Statistics, and Random Processes — Hossein Pishro-Nik](https://www.probabilitycourse.com/)
 - **Type:** Textbook

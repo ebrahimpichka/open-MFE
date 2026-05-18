@@ -1,12 +1,12 @@
-# 5.1 — Python for Quantitative Finance
+﻿# 5.1 — Python for Quantitative Finance
 
 `CMU: 46901, 46903 | UChicago: FINM 32400, FINM 32500 | Berkeley: MFE 230P`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 *Resources to be added. Contributions welcome — see [CONTRIBUTING.md](../../CONTRIBUTING.md).*
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [Quantitative Economics with Python — Thomas Sargent & John Stachurski (QuantEcon)](https://python.quantecon.org/)
 - **Type:** Textbook

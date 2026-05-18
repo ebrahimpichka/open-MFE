@@ -1,4 +1,4 @@
-# 2.2 — Advanced Derivative Models
+﻿# 2.2 — Advanced Derivative Models
 
 > **Reference Programs:** CMU 46915, UChicago FINM 34500, Baruch MTH 9853
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Textbooks
+##  Textbooks
 
 ### *The Volatility Surface: A Practitioner's Guide* — Jim Gatheral
 - **Type:** Textbook
@@ -27,25 +27,25 @@
 - **Covers:** Lévy processes, jump-diffusion models (Merton, Kou), variance gamma, CGMY, model calibration
 - **Notes:** The standard reference for jump process models in finance. Rigorous mathematical treatment paired with practical calibration methods.
 
-## 🎓 Online Courses
+##  Online Courses
 
 | Course | Platform | Institution | Link |
 |--------|----------|-------------|------|
 | _Add resource_ | | | |
 
-## 📄 Key Papers
+##  Key Papers
 
 | Paper | Authors | Year | Link |
 |-------|---------|------|------|
 | _Add resource_ | | | |
 
-## 💻 Code & Notebooks
+##  Code & Notebooks
 
 | Repository | Description | Link |
 |------------|-------------|------|
 | _Add resource_ | | |
 
-## 🎙️ Recorded Lectures
+##  Recorded Lectures
 
 | Title | Speaker/Institution | Link |
 |-------|---------------------|------|

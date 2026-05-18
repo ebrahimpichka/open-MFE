@@ -1,8 +1,8 @@
-# 4.1 — Empirical Methods & Multivariate Statistics
+﻿# 4.1 — Empirical Methods & Multivariate Statistics
 
 `Berkeley: MFE 230E | CMU: 46921, 46923 | UChicago: FINM 34700`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 - **[Econometrics Lectures — Econometrics Academy](https://www.youtube.com/playlist?list=PLRW9kMvtNZOiGcwYyFPksbROYaqcq2KU-)**
   Comprehensive coverage of OLS, GLS, MLE, GMM, panel data, IV. Strong applied focus.
@@ -22,7 +22,7 @@
 - **[Econometrics Playlist](https://www.youtube.com/playlist?list=PLEuzmtv9IuT9ot5UyUDakYM-EVsq_Ngq6)**
   Additional lecture series covering multivariate statistics and regression.
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [Econometrics — Bruce E. Hansen (UWisconsin)](https://www.ssc.wisc.edu/~bhansen/econometrics/)
 - **Type:** Textbook

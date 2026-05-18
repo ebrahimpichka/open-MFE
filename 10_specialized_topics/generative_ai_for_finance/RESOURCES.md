@@ -1,12 +1,12 @@
-# 10.4 — Generative & Agentic AI for Finance
+﻿# 10.4 — Generative & Agentic AI for Finance
 
 `UChicago: FINM 33200`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 *Resources to be added. Contributions welcome — see [CONTRIBUTING.md](../../CONTRIBUTING.md).*
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [Speech and Language Processing (3rd ed. draft) — Jurafsky & Martin (LLM chapters)](https://web.stanford.edu/~jurafsky/slp3/)
 - **Type:** Textbook

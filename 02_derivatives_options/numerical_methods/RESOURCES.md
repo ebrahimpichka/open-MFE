@@ -1,8 +1,8 @@
-# 2.2 — Numerical Methods
+﻿# 2.2 — Numerical Methods
 
 `Berkeley: MFE 230D | CMU: 46932 | UChicago: FINM 32000 | Baruch: MTH 9821`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 - **[Computational Finance Course — Lech A. Grzelak](https://www.youtube.com/playlist?list=PL6zzGYGhbWrPaI-op1UfNl0uDglxdkaOB)**
   Directly targets quantitative finance: Monte Carlo, finite differences, Fourier methods, calibration. Highly recommended.
@@ -19,7 +19,7 @@
 - **[Numerical Methods for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2Jcxn35XnijUtqqEg0Wi5Sn8ab)**
   Applied engineering-focused treatment of root finding, interpolation, ODE/PDE solvers, and numerical integration.
 
-## 📖 Textbooks
+##  Textbooks
 
 ### *Monte Carlo Methods in Financial Engineering* — Paul Glasserman
 - **Type:** Textbook

@@ -1,10 +1,10 @@
-# Module 7 — Quantitative Risk Management
+﻿# Module 7 — Quantitative Risk Management
 
 `Berkeley: MFE 230H | CMU: 46954 | UChicago: FINM 36700 | Baruch: MTH 9876`
 
 Covers the full risk management stack: market risk, credit risk, liquidity risk, counterparty risk, and regulatory frameworks.
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 - **[Quantitative Risk Management — Leipzig University](https://www.youtube.com/playlist?list=PL4i4aZbplv9KLOA0T4Vw_6PW_eYEYGSXR)**
   Comprehensive graduate course. VaR, Expected Shortfall, copulas, extreme value theory, credit risk models, Basel framework.
@@ -15,7 +15,7 @@ Covers the full risk management stack: market risk, credit risk, liquidity risk,
 - **[Financial Engineering Course — Interest Rates and xVA](https://www.youtube.com/playlist?list=PL6zzGYGhbWrMpjEKDtnrHWyIj-oVLKCYD)**
   Focused on counterparty credit risk and valuation adjustments (CVA, DVA, FVA, XVA). Directly relevant to OTC derivatives risk.
 
-## 📖 Textbooks
+##  Textbooks
 
 ### *Quantitative Risk Management: Concepts, Techniques, and Tools* — Alexander McNeil, Rüdiger Frey & Paul Embrechts
 - **Type:** Textbook

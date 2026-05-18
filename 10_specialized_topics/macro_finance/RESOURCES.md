@@ -1,12 +1,12 @@
-# 10.1 — Macro Finance
+﻿# 10.1 — Macro Finance
 
 `CMU: 46975 | UChicago: FINM 35900, FINM 35000`
 
-## 🎓 Courses & Lectures
+##  Courses & Lectures
 
 *Resources to be added. Contributions welcome — see [CONTRIBUTING.md](../../CONTRIBUTING.md).*
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [Asset Pricing — John Cochrane (with lecture notes)](https://www.johnhcochrane.com/asset-pricing)
 - **Type:** Textbook

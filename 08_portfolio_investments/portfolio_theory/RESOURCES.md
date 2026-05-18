@@ -1,4 +1,4 @@
-# 8.1 — Portfolio Theory & Asset Pricing
+﻿# 8.1 — Portfolio Theory & Asset Pricing
 
 > **Reference Programs:** Berkeley MFE 230A, CMU 46972, UChicago FINM 36700
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Textbooks
+##  Textbooks
 
 ### [Asset Pricing — John Cochrane](https://www.johnhcochrane.com/asset-pricing)
 - **Type:** Textbook
@@ -34,25 +34,25 @@
 - **Free:** No
 - **Covers:** Fundamental Law of Active Management, information ratio, alpha signals, portfolio construction, risk models, performance attribution
 - **Notes:** The "bible" of quantitative active management. Introduces the framework used by most systematic equity managers.
-## 🎓 Online Courses
+##  Online Courses
 
 | Course | Platform | Institution | Link |
 |--------|----------|-------------|------|
 | _Add resource_ | | | |
 
-## 📄 Key Papers
+##  Key Papers
 
 | Paper | Authors | Year | Link |
 |-------|---------|------|------|
 | _Add resource_ | | | |
 
-## 💻 Code & Notebooks
+##  Code & Notebooks
 
 | Repository | Description | Link |
 |------------|-------------|------|
 | _Add resource_ | | |
 
-## 🎙️ Recorded Lectures
+##  Recorded Lectures
 
 | Title | Speaker/Institution | Link |
 |-------|---------------------|------|
