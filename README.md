@@ -3,7 +3,7 @@
 
 A community-curated vault of openly available resources that replicates the rigorous syllabus of top MFE / Quant Finance programs — **Berkeley Haas, CMU MSCF, UChicago FinMath, Baruch MFE, and Columbia MFE**.
 
-> **Philosophy:** Most of the time, every topic taught in a top MFE program has a freely available equivalent on the internet (or in the form of textbooks, lecture notes, etc.). This repository maps the full curriculum and points you to the best open resources for each subject.
+> **Philosophy:** Most of the time, every topic taught in a major MFE program has a freely available equivalent on the internet (or in the form of textbooks, lecture notes, etc.). This repository maps the full curriculum and points you to the best open resources for each subject.
 
 ---
 
@@ -68,14 +68,14 @@ open-MFE/
 │
 ├── 06_machine_learning_data_science/
 │   ├── ml_fundamentals/
-│   ├── ml_for_finance/                  ← new
+│   ├── ml_for_finance/               
 │   ├── deep_learning/
 │   ├── nlp_for_finance/
 │   ├── reinforcement_learning/
 │   └── alternative_and_hf_data/
 │
 ├── 07_risk_management/
-│   └── RESOURCES.md                     ← single flat module
+│   └── RESOURCES.md                    
 │
 ├── 08_portfolio_investments/
 │   ├── asset_pricing_and_portfolio_theory/
