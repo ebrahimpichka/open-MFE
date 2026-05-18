@@ -6,7 +6,28 @@
 
 *Resources to be added. Contributions welcome — see [CONTRIBUTING.md](../../CONTRIBUTING.md).*
 
-## 📖 Suggested Starting Points
+## 📖 Textbooks
 
-- *Python for Finance* — Yves Hilpisch (O'Reilly)
-- [Quantitative Economics with Python](https://python.quantecon.org/) — QuantEcon (free online book)
+### [Quantitative Economics with Python — Thomas Sargent & John Stachurski (QuantEcon)](https://python.quantecon.org/)
+- **Type:** Textbook
+- **Author/Institution:** Thomas Sargent (NYU) & John Stachurski (ANU) — QuantEcon
+- **Level:** Intermediate
+- **Free:** Yes
+- **Covers:** Python scientific stack (NumPy, SciPy, pandas, Matplotlib), dynamic programming, linear algebra, time series, optimization, simulation
+- **Notes:** Freely available at python.quantecon.org. Covers the full scientific Python stack with applications to economics and finance. Essential companion for MFE Python programming.
+
+### *Python for Finance* — Yves Hilpisch
+- **Type:** Textbook
+- **Author/Institution:** Yves Hilpisch (The Python Quants)
+- **Level:** Intermediate
+- **Free:** No (O'Reilly)
+- **Covers:** NumPy, pandas, financial data analysis, derivatives analytics, stochastic processes, machine learning in finance
+- **Notes:** The go-to practical Python reference for quants. Covers the full Python data science stack applied to derivatives pricing, risk management, and algo trading.
+
+### *Python for Data Analysis* — Wes McKinney
+- **Type:** Textbook
+- **Author/Institution:** Wes McKinney (creator of pandas)
+- **Level:** Introductory
+- **Free:** Partial (O'Reilly; older edition freely available online)
+- **Covers:** NumPy, pandas, data wrangling, time series, matplotlib, data loading
+- **Notes:** The definitive pandas reference by its creator. Essential for financial data manipulation. The foundation of Python-based quantitative research.

@@ -22,3 +22,29 @@
 
 - **[DeepMind x UCL — Deep Learning Lecture Series 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)**
   High-quality lectures from DeepMind researchers. Covers generative models, RL, graph networks.
+
+## 📖 Textbooks
+
+### [Deep Learning — Ian Goodfellow, Yoshua Bengio & Aaron Courville](https://www.deeplearningbook.org/)
+- **Type:** Textbook
+- **Author/Institution:** Goodfellow, Bengio & Courville (MIT Press)
+- **Level:** Advanced
+- **Free:** Yes (HTML at deeplearningbook.org)
+- **Covers:** Linear algebra review, probability, optimization, feedforward networks, regularization, CNNs, RNNs, autoencoders, generative models
+- **Notes:** The definitive deep learning textbook. Freely available online as HTML. Mathematical foundations are especially strong. The standard reference for DL theory in MFE programs.
+
+### [Dive into Deep Learning — Aston Zhang et al.](https://d2l.ai/)
+- **Type:** Textbook
+- **Author/Institution:** Aston Zhang, Zack Lipton, Mu Li & Alex Smola (various institutions)
+- **Level:** Intermediate
+- **Free:** Yes
+- **Covers:** Linear networks, MLPs, CNNs, RNNs, attention/Transformers, optimization, computer vision, NLP
+- **Notes:** Freely available at d2l.ai with interactive Jupyter notebooks in PyTorch, TensorFlow, and JAX. The best practical DL text for hands-on learning.
+
+### *Neural Networks and Deep Learning* — Michael Nielsen
+- **Type:** Textbook
+- **Author/Institution:** Michael Nielsen
+- **Level:** Introductory
+- **Free:** Yes (at [neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com/))
+- **Covers:** Perceptrons, backpropagation, CNNs, regularization, how neural networks learn
+- **Notes:** Freely available online. The most intuitive introduction to deep learning — builds a neural network from scratch step by step. Excellent first text before Goodfellow.

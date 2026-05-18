@@ -26,3 +26,29 @@
 
 - **[Introduction to Reinforcement Learning — Masoud Farahmand](https://www.youtube.com/playlist?list=PLCveiXxL2xNbiDq51a8iJwPRq2aO0ykrq)**
   Accessible entry point covering the full RL pipeline from MDPs through modern deep RL.
+
+## 📖 Textbooks
+
+### [Reinforcement Learning: An Introduction — Richard Sutton & Andrew Barto](http://incompleteideas.net/book/the-book-2nd.html)
+- **Type:** Textbook
+- **Author/Institution:** Richard Sutton & Andrew Barto (University of Alberta / University of Massachusetts)
+- **Level:** Intermediate
+- **Free:** Yes
+- **Covers:** MDPs, dynamic programming, Monte Carlo methods, TD learning, Q-learning, function approximation, policy gradient, actor-critic
+- **Notes:** The canonical RL textbook, freely available at incompleteideas.net. The definitive reference for the full RL curriculum. Essential companion to David Silver's course.
+
+### *Algorithms for Reinforcement Learning* — Csaba Szepesvári
+- **Type:** Textbook
+- **Author/Institution:** Csaba Szepesvári (University of Alberta)
+- **Level:** Advanced
+- **Free:** Yes (available at [ualberta.ca](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf))
+- **Covers:** Value iteration, Q-learning, SARSA, policy gradient, function approximation, sample complexity
+- **Notes:** Concise mathematical treatment of RL algorithms with rigorous convergence analysis. Freely available PDF. Excellent complement to Sutton & Barto for theoretical foundations.
+
+### *Reinforcement Learning: Theory and Algorithms* — Alekh Agarwal, Nan Jiang, Sham Kakade & Wen Sun
+- **Type:** Textbook
+- **Author/Institution:** Agarwal, Jiang, Kakade & Sun (various institutions)
+- **Level:** Advanced
+- **Free:** Yes (available at [rltheorybook.github.io](https://rltheorybook.github.io/))
+- **Covers:** PAC learning for RL, sample complexity, exploration-exploitation, function approximation theory, offline RL
+- **Notes:** Graduate-level theoretical RL text, freely available online. Ideal for those wanting rigorous mathematical foundations alongside David Silver's applied approach.

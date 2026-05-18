@@ -35,3 +35,21 @@
 - **[CUDA Training Series — ORNL / NERSC](https://www.youtube.com/playlist?list=PL6RdenZrxrw-zNX7uuGppWETdxt_JxdMj)**
   [Exercises on GitHub](https://github.com/olcf/cuda-training-series/tree/master/exercises)
   Professional HPC center training. Covers advanced CUDA patterns, profiling, multi-GPU.
+
+## 📖 Textbooks
+
+### *Programming Massively Parallel Processors: A Hands-on Approach* — Wen-mei Hwu, David Kirk & Izzat El Hajj
+- **Type:** Textbook
+- **Author/Institution:** Hwu, Kirk & El Hajj (Elsevier)
+- **Level:** Intermediate
+- **Free:** Partial (companion lecture series freely available at [@pmpp-book](https://www.youtube.com/@pmpp-book))
+- **Covers:** CUDA programming model, GPU memory hierarchy, thread organization, parallel patterns, performance optimization
+- **Notes:** The canonical CUDA textbook, paired with the freely available YouTube lecture series above. Essential for GPU-accelerated Monte Carlo and other HPC applications in finance.
+
+### *An Introduction to Parallel Programming* — Peter Pacheco & Matthew Malensek
+- **Type:** Textbook
+- **Author/Institution:** Peter Pacheco & Matthew Malensek (Elsevier)
+- **Level:** Intermediate
+- **Free:** No (Elsevier)
+- **Covers:** MPI, Pthreads, OpenMP, parallel algorithm design, performance analysis
+- **Notes:** The standard introductory parallel programming text. Covers the three main parallel programming paradigms used in HPC environments for quantitative finance applications.

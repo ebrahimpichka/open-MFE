@@ -18,3 +18,29 @@
 
 - **[Numerical Methods for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2Jcxn35XnijUtqqEg0Wi5Sn8ab)**
   Applied engineering-focused treatment of root finding, interpolation, ODE/PDE solvers, and numerical integration.
+
+## 📖 Textbooks
+
+### *Monte Carlo Methods in Financial Engineering* — Paul Glasserman
+- **Type:** Textbook
+- **Author/Institution:** Paul Glasserman (Columbia Business School)
+- **Level:** Advanced
+- **Free:** No (Springer)
+- **Covers:** Monte Carlo simulation, variance reduction, quasi-Monte Carlo, Greeks estimation, credit risk simulation, interest rate models
+- **Notes:** The definitive reference for Monte Carlo in quantitative finance. Essential reading for anyone implementing simulation-based pricing. Pairs directly with the Grzelak course above.
+
+### *Numerical Methods in Finance and Economics* — Paolo Brandimarte
+- **Type:** Textbook
+- **Author/Institution:** Paolo Brandimarte (Politecnico di Torino)
+- **Level:** Intermediate
+- **Free:** No (Wiley)
+- **Covers:** Numerical optimization, Monte Carlo simulation, finite difference methods, stochastic programming, MATLAB implementations
+- **Notes:** Accessible graduate-level text with strong focus on implementation. Bridges numerical methods theory and financial applications with worked code examples.
+
+### *Financial Numerical Recipes in C++* — Bernt Øksendal Haug (Bernt Haug)
+- **Type:** Textbook
+- **Author/Institution:** Bernt Haug
+- **Level:** Intermediate
+- **Free:** No
+- **Covers:** Option pricing formulas, Black-Scholes Greeks, barrier options, Monte Carlo, binomial trees
+- **Notes:** Recipe-style reference for practitioners implementing option pricing algorithms. Useful companion to more theoretical texts.
